@@ -25,3 +25,5 @@ data for adding the user (body) for register-
     "username": "testuser2",
     "password": "123hello"
 }
+
+everytime a new user is registered a client object is created
